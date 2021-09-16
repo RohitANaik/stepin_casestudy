@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1631700386 source:c:\users\hp\desktop\stepin_casestudy\fuse.c
+	<avr/io.h>
+
+1631709742 source:c:\users\hp\desktop\stepin_casestudy\main.c
+	<avr/io.h>
+	<util/delay.h>
+
+1631713419 source:c:\users\hp\desktop\stepin_casestudy\activity1.c
+	<avr/io.h>
+	<util/delay.h>
+	"activity1.h"
+
+1631713595 c:\users\hp\desktop\stepin_casestudy\activity1.h
+
+1631711894 source:c:\users\hp\desktop\stepin_casestudy\activity2.c
+	"activity2.h"
+
+1631711681 c:\users\hp\desktop\stepin_casestudy\activity2.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631695554 source:c:\users\hp\desktop\stepin_embedded_c\activity4.c
+	"activity4.h"
+
+1631692678 c:\users\hp\desktop\stepin_embedded_c\activity4.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631705715 source:c:\users\hp\desktop\stepin_casestudy\activity3.c
+	"activity3.h"
+	"activity2.h"
+
+1631705555 c:\users\hp\desktop\stepin_casestudy\activity3.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631711823 source:c:\users\hp\desktop\stepin_casestudy\activity4.c
+	"activity4.h"
+
+1631711843 c:\users\hp\desktop\stepin_casestudy\activity4.h
+	<util/delay.h>
+	<avr/io.h>
+
+1631711155 source:c:\users\hp\desktop\stepin_casestudy\led.c
+	<avr/io.h>
+	"activity1.h"
+
